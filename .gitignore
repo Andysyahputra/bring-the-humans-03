@@ -1,0 +1,7 @@
+press/
+audio/
+scenes/
+*.mp4
+check_*.png
+out/
+final_list.txt
